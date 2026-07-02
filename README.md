@@ -30,13 +30,13 @@ Simple and functional task management app
 
 „Zwyczajnie Niezwyczajni” — landing + informational platform
 
-🔗 [niezwyczajni.vercel.app/](https://niezwyczajni.vercel.app/)
+🔗 [niezwyczajni.vercel.app](https://niezwyczajni.vercel.app/)
 
 ## 📫 Contact
 
 - LinkedIn: [linkedin.com/in/daniilaksonov](https://linkedin.com/in/daniilaksonov)
 - Facebook: [facebook.com/daniilaksonov](https://facebook.com/daniilaksonov)
-- Instagram: [instagram.com/d0naks/](https://www.instagram.com/d0naks/)
+- Instagram: [instagram.com/d0naks](https://www.instagram.com/d0naks/)
 - Telegram: [t.me/donaks](https://t.me/donaks)
 
 ## ⚡ Focus
